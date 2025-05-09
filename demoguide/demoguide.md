@@ -43,7 +43,7 @@ Resources deployed:
  - MyVmPublic and MyVmPrivate: Virtual machines
  - myVirtualNetwork: virtual  network
 
-<img src="https://raw.githubusercontent.com/daverendon/azd-service-endpoints-and-securing-storage/refs/heads/main/demoguide/rg-service-endpoints-and-securing-storage.png" alt="Intersite connectivity" style="width:70%;">
+<img src="https://raw.githubusercontent.com/daverendon/azd-service-endpoints-and-securing-storage/refs/heads/main/demoguide/rg-service-endpoints-and-securing-storage.png" alt="service-endpoints-and-securing-storage" style="width:70%;">
 <br></br>
 <br></br>
 
@@ -51,7 +51,7 @@ Resources deployed:
 
 This demo guides you through a hands-on exercise to build and secure a networked environment in Azure. You will start by creating a virtual network and adding a subnet with a configured storage endpoint. Next, you will implement network security groups—first to restrict access to the private subnet and then to allow RDP access on the public subnet. Following this, you will create a storage account with a file share and deploy virtual machines into their respective subnets. Finally, you will test the storage connection from both the private and public subnets to verify that access is correctly allowed from the private subnet and denied from the public subnet.
 
-<img src="https://raw.githubusercontent.com/daverendon/azd-service-endpoints-and-securing-storage/refs/heads/main/demoguide/diagram-service-endpoints-and-securing-storagey.png" alt="Intersite connectivity diagram" style="width:70%;">
+<img src="https://raw.githubusercontent.com/daverendon/azd-service-endpoints-and-securing-storage/refs/heads/main/demoguide/diagram-service-endpoints-and-securing-storage.png" alt="diagram service-endpoints-and-securing-storage" style="width:70%;">
 <br></br>
 <br></br>
 
